@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
          results.append(
                 [
-                    InlineKeyboardButton("☮ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ☮", url="https://t.me/joinchat/Ne7DL6mJ2nA0ZTNl"),
+                    InlineKeyboardButton("☮ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ☮", url="https://t.me/cb_linkz"),
                     InlineKeyboardButton("☮ 𝙝𝙙 𝙢𝙤𝙫𝙞𝙚𝙨 ☮", url="https://t.me/joinchat/CXRICR1ok3ViZjk9"),
                 ]
             )
