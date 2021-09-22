@@ -66,6 +66,7 @@ async def auto_filter(bot, update):
                     InlineKeyboardButton("☮ 𝙝𝙙 𝙢𝙤𝙫𝙞𝙚𝙨 ☮", url="https://t.me/TV_SeriesCourt"),
                 ]
             )
+
         for filter in filters: # iterating through each files
             file_name = filter.get("file_name")
             file_type = filter.get("file_type")
