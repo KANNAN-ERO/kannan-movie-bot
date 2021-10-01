@@ -20,5 +20,5 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href="https://t.me/peace_fighter_TG">Tʜɪs Pᴇ
 
 
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <b>നീ ഏതാ..... ഒന്ന് പോടെയ്</b>
+    ABOUT_TEXT = """<b>നീ ഏതാ..... ഒന്ന് പോടെയ്</b>
 """
