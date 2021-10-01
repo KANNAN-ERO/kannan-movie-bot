@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('⭕ 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝙈𝘼𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ⭕', url='https://t.me/joinchat/OFbBryh6-iEwYWE1')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('ᕼᗴᒪᑭ 🥺', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -70,10 +70,10 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('About 🚩', callback_data='about')
+        InlineKeyboardButton('𝙃𝙤𝙢𝙚 🏡', callback_data='start'),
+        InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩 😎', callback_data='about')
     ],[
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('𝘊𝘭𝘰𝘴𝘦 🔥', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -91,8 +91,8 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('𝙃𝙤𝙢𝙚 🏡', callback_data='start'),
+        InlineKeyboardButton('𝘊𝘭𝘰𝘴𝘦 🔥', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
