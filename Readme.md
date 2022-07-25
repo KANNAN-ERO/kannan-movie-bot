@@ -1,4 +1,4 @@
-# Adv Auto Filter Bot V2
+# kannan Auto Filter Bot V2
 
 <p align="center">
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -68,12 +68,12 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/KANNAN-ERO/kannan-movie-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
+git clone https://github.com/KANNAN-ERO/kannan-movie-bot
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
