@@ -46,7 +46,7 @@ For More Details Click Help Button Below..
 @AMTCN_LINKZ
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> KANNAN Auto Filter Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/kannan_ero">@kannan_ero</a></i></b>
 
